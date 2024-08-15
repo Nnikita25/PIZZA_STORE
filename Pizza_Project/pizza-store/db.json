@@ -1,0 +1,16 @@
+{
+  "pizzas": [
+    {
+      "id": "1",
+      "name": "Margherita",
+      "description": "Classic delight with 100% real mozzarella cheese",
+      "price": 8.99
+    },
+    {
+      "id": "2",
+      "name": "Pepperoni",
+      "description": "A classic Pepperoni pizza with cheese",
+      "price": 10.99
+    }
+  ]
+}
